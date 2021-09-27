@@ -6,6 +6,7 @@ body{
 .test ul li{
     background: yellow;
     display: inline;
+    font-size: 10px;
 }
 
 
